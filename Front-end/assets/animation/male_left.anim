@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "male_left",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6666666666666666,
+  "sample": 6,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "23f1503e-eef8-4335-a3bf-da8b89452010"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "ab9d6209-5cfb-4a1a-99d2-746c330978ad"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "e5cc34a4-35da-407d-a14d-896093501249"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "dfb50571-48d1-455f-b2ec-e9301969af62"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

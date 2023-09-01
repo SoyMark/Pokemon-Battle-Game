@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "female_up",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.8,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "3ebbd0e4-ab64-4267-8f8c-1a2d0d2ad749"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "e2d05b31-ae9b-4e2a-8059-d568d049ad6d"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "3b6f9246-a982-4c5d-b129-de016c501749"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "1f1c3a12-db1e-470b-9c91-f5ffb826455f"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

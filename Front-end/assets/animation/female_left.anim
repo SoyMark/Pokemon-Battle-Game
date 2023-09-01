@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "female_left",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.8,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "be844c11-0305-4a7b-b3fe-654614347b97"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "cca5365d-1493-4811-9f48-aaa4826523dd"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "baaaf053-75c5-4605-94b3-de1ef30fc092"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "c421e434-9df1-4cc3-b4f7-e6f61e02b6e5"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

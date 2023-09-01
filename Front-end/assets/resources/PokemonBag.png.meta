@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "eab86195-2db5-43bd-9660-d8a64bf3cedc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 495,
+  "height": 288,
+  "platformSettings": {},
+  "subMetas": {
+    "PokemonBag": {
+      "ver": "1.0.4",
+      "uuid": "e69e6665-545e-43d8-af95-62c5c32e14cd",
+      "rawTextureUuid": "eab86195-2db5-43bd-9660-d8a64bf3cedc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 495,
+      "height": 288,
+      "rawWidth": 495,
+      "rawHeight": 288,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

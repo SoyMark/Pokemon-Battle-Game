@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.6.0" orientation="orthogonal" renderorder="right-down" width="60" height="30" tilewidth="16" tileheight="16" infinite="0" nextlayerid="9" nextobjectid="1">
+ <tileset firstgid="1" source="mapsource.tsx"/>
+ <layer id="1" name="background" width="60" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt0bkVwCAQxNDFJ6lP3H+lqIx9WIGiyeaXiJhopoVW2minSmWw/aCTLrrpoZcafQPu2f7XV1999dVX3wz/66uvvvrqq2+G//XVV1999dU3w//66quvvvr+07cDVkNW9Q==
+  </data>
+ </layer>
+ <layer id="2" name="building" width="60" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt2LdOA0EUheEheMEmZ2yTQQKbHCSwQYKW8AKElySHjhw6cujIoSOHir8Z2ZqWAs3dvdIn7e32SHtmpQkrpSoQRAhh4XszWhBB1AV7PwYQQ9wFexayMYwRjGJM4O5HQCW+73FMYBJTAnfd33Z0YNqn1AxmMYd5LGARS1jGCmwd3d9BDGGVLGtYxwY2sYVt7GAXexbnNfu7T5YDHOIIxzjBKc5wjguL85r9vSTLFa5xg1vc4R4PeMSTxXnN/+8zWV7wije84wOf+MI3fizOa/5/UxylUpGGdPjgIAOZ8CPg/O87/2XM/haQpRBFKEYJSlGGcgQRsjiv2d9astShHg1JuRp5bkIEUYvzmv3tJEsXutGTlKuX5z7EELc4r9lf6WP2V/qY/ZU+Zn+lj9df2eP1V/Z4/ZU9+j7LLf3V55Vb+qvPK7f0V59Xur85yEUe8gXu+rzS/a1EFapRI3DX55XubyvaVOI+Wtqu799/AY7slOg=
+  </data>
+ </layer>
+ <layer id="8" name="cave" width="60" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAAAAAAAvBhwgAAE=
+  </data>
+ </layer>
+ <layer id="3" name="path" width="60" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt1SEOgEAMBdHe/zYYPIaAxBCQOLgB6/gVJBhsKzovGV+yaTEDAAAAAPzp1KRm1SfPEmFQm9rVmDxLhEWd6lJr8iwRDnWrZjXe97u/Fd7Xv7fS/vq9qrS/fq/e/a3wP6p2rwAAiPYAxPUd+Q==
+  </data>
+ </layer>
+ <layer id="5" name="pc" width="60" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztz8ENABAABMF76YQO6L80epCQMFPBbgIAAOyqJWnldsU5fb2Oj34BAADgJRMsiwDP
+  </data>
+ </layer>
+ <layer id="7" name="grass" width="60" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt1tENABAMRVGrsAH7D8cCGiWkrXsS6c/z9ZKSEgAAkORxijC1OevqOE2Y2px1q/3Mcl773c391q83p/16o+03yn5ezf2yn2/df+20n6j98v7q7lvB/zn2/xkAAMTQAUjSFBs=
+  </data>
+ </layer>
+ <layer id="6" name="mart" width="60" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAAAAAAAvBhwgAAE=
+  </data>
+ </layer>
+</map>
